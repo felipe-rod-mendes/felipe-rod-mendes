@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Felipe Mendes, an aspiring data scientist and a doctoral student in Industrial Engineering. I'm a 35-year-old Brazilian, born and raised - proudly!
+
+🔭 I’m currently working on data analysis related to public policies in Brazil. I have experience in higher education and am now working in public health.
+🌱 I’m currently learning data science algorithms applied in Python.
+👯 I’m looking to collaborate on projects related to data science and its application to public policies in Brazil!
+📫 How to reach me: If you’d like to get in touch, please email me at felipe.rod.mendes@gmail.com.
+😄 Pronouns: he/him
+⚡ Fun fact: I'm a (retired) breakdancer, and I play the harmonica (diatonic, of course).
